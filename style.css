@@ -1,0 +1,11 @@
+#game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+canvas {
+    border: 1px solid black;
+    background-color: lightgray;
+}
